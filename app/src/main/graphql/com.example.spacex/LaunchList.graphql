@@ -1,0 +1,11 @@
+query LaunchList {
+    launches(limit: 10) {
+        id
+        mission_name
+        links {
+            mission_patch_small
+        }
+        launch_date_local
+    }
+}
+
