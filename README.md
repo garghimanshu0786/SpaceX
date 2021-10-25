@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SpaceX  Android App👋</h1>
+<h1 align="center">Welcome to SpaceX Launches Android App👋</h1>
 <h2 align="center"> This app is based on clean architecture and using the spaceX graphql API to show launch data.
 The code is made considering all design principles and guidelines.
 The app enables users to see a list of launches by spaceX and go the the details of any launch.
