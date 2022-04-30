@@ -34,7 +34,7 @@ Feel free to check [issues page] if you want to contribute.<br />
 
 👤 *"Himanshu Garg**
 
-- Twitter: [@anshulgarg786](https://twitter.com/anshulgarg786)
+- Twitter: [@anshulgarg786](https://twitter.com/_anshulgarg)
 
 ## Show your support
 
